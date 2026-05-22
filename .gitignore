@@ -12,5 +12,6 @@ dist
 # npm i tsx
 # npm i express
 # npm install --save @types/express
+# npm install zod
 # npm install pg bcrypt jsonwebtoken http-status-codes dotenv
 # npm install ts-node nodemon @types/express @types/pg @types/bcrypt @types/jsonwebtoken @types/node
