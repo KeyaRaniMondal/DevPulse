@@ -15,3 +15,5 @@ dist
 # npm install zod
 # npm install pg bcrypt jsonwebtoken http-status-codes dotenv
 # npm install ts-node nodemon @types/express @types/pg @types/bcrypt @types/jsonwebtoken @types/node
+# npm install cors
+# npm install --save-dev @types/cors
