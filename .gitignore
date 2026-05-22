@@ -1,3 +1,16 @@
 node_modules
 dist
 .env
+
+
+
+# - steps:
+# npm init -y
+# npm i -D typescript
+# npx tsc --init
+# npm install -D @types/node
+# npm i tsx
+# npm i express
+# npm install --save @types/express
+# npm install pg bcrypt jsonwebtoken http-status-codes dotenv
+# npm install ts-node nodemon @types/express @types/pg @types/bcrypt @types/jsonwebtoken @types/node
