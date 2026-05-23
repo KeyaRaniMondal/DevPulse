@@ -9,7 +9,7 @@ export const signupController = async (req: Request, res: Response) => {
         const user = await signupUser(parsed)
         res.status(StatusCodes.CREATED).json({
             success: true,
-            message: "User created successfully",
+            message: "User registered successfully",
             data: user
         })
     } catch (error: any) {
@@ -25,7 +25,7 @@ export const loginController = async (req: Request, res: Response) => {
         const user = await loginUser(parsed.email, parsed.password)
         res.status(StatusCodes.OK).json({
             success: true,
-            message: "Logged In successfully",
+            message: "Login successful",
             data: user
         })
     } catch (error: any) {
