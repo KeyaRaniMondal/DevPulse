@@ -17,3 +17,4 @@ dist
 # npm install ts-node nodemon @types/express @types/pg @types/bcrypt @types/jsonwebtoken @types/node
 # npm install cors
 # npm install --save-dev @types/cors
+.vercel
